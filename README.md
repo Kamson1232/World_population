@@ -6,4 +6,5 @@
 # clean_data - those are files with organised data after innitial analysis (what might be used in visualization)
 # python_code - python code that does the importing, cleaning, analysis and exporting
 
-# I actually have no clue what should be written here. First thing that comes to my mind is just a little explanation what does this repository contains.
+I actually have no clue what should be written here.
+#First thing that comes to my mind is just a little explanation what does this repository contains.
